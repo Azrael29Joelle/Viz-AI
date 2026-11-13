@@ -53,6 +53,25 @@ The full course requirements are summarized in [`docs/course-requirements.md`](d
 
 ---
 
+## Midterm 1: the video presentation (current)
+
+**"No Alert Left Unanswered"** is told as a story: Susan, a fictional 61-year-old having a stroke, waits 50 minutes for an unanswered alert to reach a doctor. Then we show how our add-on would have answered it 40 minutes sooner.
+
+- **Deck (Canva, view-only):** https://www.canva.com/d/eed4_iVFV_2ugD6
+- **Slide list, speakers and checklist:** [`docs/midterm1/README.md`](docs/midterm1/README.md)
+- **Script and team briefing:** [`docs/midterm1/script-and-team-briefing.md`](docs/midterm1/script-and-team-briefing.md)
+
+The script and briefing cover every speaker's lines, a glossary, the source behind each number, and likely questions from the lecturer.
+
+| Part | Speaker |
+| --- | --- |
+| Title, team, problem | Joelle (with Hiba telling Susan's story) |
+| Research + our add-on | Doaa |
+| Algorithm, technologies, feasibility | Joelle |
+| Innovation, development plan, closing | Cleo |
+
+---
+
 ## Research & reports
 
 | File | What it is |
