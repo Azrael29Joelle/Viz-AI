@@ -17,7 +17,9 @@ The researchers concluded that integrating AI technology into stroke care can im
 
 ## 2. AI in a hub-and-spoke stroke system
 
-**"Automated emergent large vessel occlusion detection by artificial intelligence improves stroke workflow in a hub and spoke stroke system of care."** PubMed 34417344. Add the full IEEE details (authors, journal, year, DOI); see issue #5.
+**"Automated emergent large vessel occlusion detection by artificial intelligence improves stroke workflow in a hub and spoke stroke system of care."** PubMed 34417344.
+
+L. Elijovich *et al.*, "Automated emergent large vessel occlusion detection by artificial intelligence improves stroke workflow in a hub and spoke stroke system of care," *J. NeuroInterv. Surg.*, vol. 14, no. 7, pp. 704–708, 2022, doi: 10.1136/neurintsurg-2021-017714.
 
 This research study examines how artificial intelligence can improve the detection of large vessel occlusion strokes and accelerate communication between medical teams.
 The researchers conducted a retrospective study involving 680 stroke cases. They evaluated the use of Viz.ai software to automatically detect emergency stroke cases through medical imaging and notify the relevant medical teams.
