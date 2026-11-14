@@ -64,13 +64,27 @@
 **On screen:** left, three short research findings with numbered circles; right, four icon cards (bell, chart, network, calculator).
 
 **Doaa:**
-> So what does the research say? Viz.ai is the company that built the AI in Susan's story. A meta-analysis of 12 studies and more than 15,000 patients found that Viz.ai shortens the time from the CT scan to treatment. But it found no significant change in patients' outcomes yet [3].
->
-> Another study found that the AI cut the time from the scan to notifying the team from 26 minutes to 7 [4]. And a study of 29 hospitals found that hospitals with a stroke coordinator, someone whose job is to keep things moving, treat patients faster: about 60 minutes from arrival to treatment, against 81 without one [5].
->
-> Together, these studies tell us one thing: the AI detection works, and the time is won in **communication**. What's missing is a guarantee that every alert gets an answer.
->
-> That's our idea: an add-on that works **with** Viz.ai. It has four parts. An **escalation engine**, so an unanswered alert moves to the next doctor. A **dashboard** that shows hospitals where minutes are lost. A **digital twin**, a computer simulation of the hospital, to test changes before making them. And an **ROI calculator** that turns minutes saved into money.
+> So, what does the research tell us?
+
+First, a meta-analysis of 12 studies, involving more than 15,000 patients, found that Viz.ai reduced the time from CT scan to treatment. However, it did not show a significant improvement in patient outcomes yet.
+
+Second, another study found that AI reduced the time needed to notify the medical team from 26 minutes to just 7 minutes.
+
+Finally, a study of 29 hospitals showed that hospitals with a stroke coordinator treated patients faster: around 57 to 61 minutes, compared to 81 minutes.
+
+Together, these studies show that AI detection and communication are both important.
+
+But we believe there is still one missing step: making sure every alert gets an answer.
+
+That's why we propose an add-on that works with Viz.ai, with four main features:
+
+An escalation engine, which sends unanswered alerts to the next doctor.
+
+A delay dashboard, which shows where time is being lost.
+
+A digital twin, which simulates the hospital to test improvements.
+
+And an ROI calculator, which estimates the financial benefit of saving time.
 
 ---
 
