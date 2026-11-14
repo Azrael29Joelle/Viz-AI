@@ -66,25 +66,25 @@
 **Doaa:**
 > So, what does the research tell us?
 
-First, a meta-analysis of 12 studies, involving more than 15,000 patients, found that Viz.ai reduced the time from CT scan to treatment. However, it did not show a significant improvement in patient outcomes yet.
-
-Second, another study found that AI reduced the time needed to notify the medical team from 26 minutes to just 7 minutes.
-
-Finally, a study of 29 hospitals showed that hospitals with a stroke coordinator treated patients faster: around 57 to 61 minutes, compared to 81 minutes.
-
-Together, these studies show that AI detection and communication are both important.
-
-But we believe there is still one missing step: making sure every alert gets an answer.
-
-That's why we propose an add-on that works with Viz.ai, with four main features:
-
-An escalation engine, which sends unanswered alerts to the next doctor.
-
-A delay dashboard, which shows where time is being lost.
-
-A digital twin, which simulates the hospital to test improvements.
-
-And an ROI calculator, which estimates the financial benefit of saving time.
+>First, a meta-analysis of 12 studies, involving more than 15,000 patients, found that Viz.ai reduced the time from CT scan to treatment. However, it did not show a significant >improvement in patient outcomes yet.
+>
+>Second, another study found that AI reduced the time needed to notify the medical team from 26 minutes to just 7 minutes.
+>
+>Finally, a study of 29 hospitals showed that hospitals with a stroke coordinator treated patients faster: around 57 to 61 minutes, compared to 81 minutes.
+>
+>Together, these studies show that AI detection and communication are both important.
+>
+>But we believe there is still one missing step: making sure every alert gets an answer.
+>
+>That's why we propose an add-on that works with Viz.ai, with four main features:
+>
+>An escalation engine, which sends unanswered alerts to the next doctor.
+>
+>A delay dashboard, which shows where time is being lost.
+>
+>A digital twin, which simulates the hospital to test improvements.
+>
+>And an ROI calculator, which estimates the financial benefit of saving time.
 
 ---
 
