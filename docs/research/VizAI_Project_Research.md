@@ -1,7 +1,7 @@
 # Viz.ai Venture: Research File (for Perplexity fact-checking)
 
 Course: Management of Technological Ventures (100997101/2/3), Dr. Elvira Bar.
-File written 2026-10-25. Team: 3 students so far, recruiting to reach 4-6.
+File written 2026-10-25. Team: 4 students (updated 2026-11-14).
 
 ---
 
