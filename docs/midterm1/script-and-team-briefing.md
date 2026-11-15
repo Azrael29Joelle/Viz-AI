@@ -10,7 +10,7 @@
 | 2 | Susan is not alone | Joelle | 0:50 |
 | 3 | What the research says + our add-on | Doaa | 1:30 |
 | 4 | How it works: Susan's case in our loop | Joelle | 1:00 |
-| 5 | Feasible with proven technology | Joelle | 0:45 |
+| 5 | Feasible with proven technology | Hiba | 0:45 |
 | 6 | What we replace + how we build it | Cleo | 1:00 |
 | 7 | Back to Susan (closing) | Cleo | 0:30 |
 | 8 | References + AI use | silent | 0:05 |
