@@ -76,6 +76,9 @@ The script and briefing cover every speaker's lines, a glossary, the source behi
 
 | File | What it is |
 | --- | --- |
+| [`docs/vision/vision-mission-values-goals.md`](docs/vision/vision-mission-values-goals.md) | Vision, mission, values, goals, SMART objectives and KPIs (2.3, issues #28-#31) |
+| [`docs/business/business-model-and-roi.md`](docs/business/business-model-and-roi.md) + [`ROI_calculator.xlsx`](docs/business/ROI_calculator.xlsx) | Business model (3.7) and the ROI calculator, with a source check (#13) |
+| [`docs/executive-summary.md`](docs/executive-summary.md) | Draft half-page executive summary (#4) |
 | [`docs/research/VizAI_Project_Research.md`](docs/research/VizAI_Project_Research.md) | The main research file: the venture, the 11 ideas we considered, claims to verify, the technological feasibility findings, and search keywords |
 | [`docs/research/ScienceDirect_Literature_2026-11-09.md`](docs/research/ScienceDirect_Literature_2026-11-09.md) | 15 ScienceDirect papers (2024-2026) with checked DOIs, summaries, why each matters, and an IEEE reference list |
 | [`docs/research/article-summaries.md`](docs/research/article-summaries.md) | Summaries of the two Viz.ai papers Doaa found |
@@ -95,6 +98,7 @@ The script and briefing cover every speaker's lines, a glossary, the source behi
 | Doaa summary 1 linked to PubMed 34417344 | The correct paper is Sarhan et al., *Transl Stroke Res* 2025: https://pmc.ncbi.nlm.nih.gov/articles/PMC12596299/ |
 | "Above 4.5 h, the *chance* of thrombectomy fell 65%" | "65% lower *odds*" (aOR 0.35) |
 | "Only 26% of transfers within 90 min" | Not in the Royan abstract; check the full text or drop it |
+| Target: Stroke cut door-to-needle "74 to 59 min" | The JAMA abstract gives medians **77 to 67 min** [12] |
 
 **Before citing any paper:** open it on ScienceDirect through the JCE library, check the numbers in the full text, and export the citation.
 

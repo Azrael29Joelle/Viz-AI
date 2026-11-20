@@ -213,7 +213,7 @@ Found through web search on 2026-11-01. Figures come from abstracts or summaries
 ### D. Door-to-treatment dashboard (component 2)
 | Source | Key finding |
 | --- | --- |
-| Fonarow et al., *JAMA* 2014;311(16):1632-1640 (Target: Stroke) | 71,169 patients at 1,030 hospitals. Measurement plus a quality program cut mean door-to-needle time from 74 to 59 minutes, and in-hospital mortality fell from 9.9% to 8.3%. (Critics note that other changes happened over the same period) |
+| Fonarow et al., *JAMA* 2014;311(16):1632-1640 (Target: Stroke) | 71,169 patients at 1,030 hospitals. Measurement plus a quality program cut **median** door-to-needle time from 77 to 67 minutes (corrected 2026-11-19 from the abstract; was "mean 74 to 59"), and in-hospital mortality fell from 9.93% to 8.25%. (Critics note that other changes happened over the same period) |
 | Large DIDO study (AHA GWTG-Stroke registry, Lancet Neurology 2026; seen only in news summaries, **check the original**) | Only 26% of transfers met the 90-minute target. Above 4.5 hours, the chance of thrombectomy fell by 65% |
 | European Stroke Journal 2023;8(3):667-674 | Median DIDO 66 minutes. **The largest contributor: the time from CTA to calling the ambulance**, a communication delay our system targets |
 | Israeli study, *Frontiers in Neurology* 2023, https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1303061 | Door-to-puncture: 190 minutes for direct admission vs 293 minutes for transferred patients. Local Israeli data for the problem slide |
