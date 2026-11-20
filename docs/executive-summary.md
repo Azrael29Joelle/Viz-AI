@@ -10,7 +10,7 @@
 
 **Solution.** A web dashboard and mobile app that complements Viz.ai. (1) An **escalation engine** moves an unacknowledged alert to the next doctor in line after a set time. (2) A **door-to-treatment dashboard** shows where minutes are lost from arrival to treatment. (3) A **hospital digital twin**, a discrete-event simulation, tests changes before they are made [6]. (4) An **ROI calculator** turns the minutes saved into value.
 
-**Vision.** No stroke patient should lose brain to an unanswered alert.
+**Vision.** A hospital where every stroke alert is answered and every minute is accounted for.
 
 **Value.** Each minute of faster thrombectomy is worth about €309 in health value and 1.3 days of disability-free life per patient, at no extra cost [8]. In our base case, a hospital saves about 500 minutes a year, worth about €4 for every €1 of subscription. The break-even point is about 130 minutes a year.
 

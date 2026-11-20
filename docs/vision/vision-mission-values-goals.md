@@ -17,42 +17,42 @@ All of it builds on the development plan in 2.4 and 2.5 (Cleo): **year 1** build
 
 ---
 
-## 1. Vision (#28)
+## 1. Vision (#28, Cleo)
 
-> **No stroke patient should lose brain to an unanswered alert.**
+> **A hospital where every stroke alert is answered and every minute is accounted for.**
 
-Why this line:
-- It is short, like the Disney and IKEA examples, and matches our deck title, *No Alert Left Unanswered*.
-- It names the benefit to the patient (lecture: "expresses a consumer benefit").
-- It is realistic: we do not promise to cure stroke, only to close the gap after the alert.
-- It can be measured: the share of alerts that get an answer in time (see the KPIs).
+Proposed by Cleo in #28, for the team to agree on. Hebrew for the talk:
+> החזון שלנו הוא בית חולים שבו כל התראה על שבץ מוחי מקבלת מענה, וכל דקה בתהליך הטיפול נמדדת.
 
-Check against the lecture's 6 components:
+Check against the lecture's 6 components (from #28):
 
 | Component | Yes because |
 | --- | --- |
-| Future direction | Describes the world we want, not today's product |
-| Customer benefit | Patients keep brain tissue; doctors and nurses stop chasing phones |
-| Realistic | Escalation is proven technology (see the feasibility slide) |
-| Motivating | One clear enemy: the unanswered alert |
-| Communicated | One sentence, the same as the deck title |
-| Followed and measured | KPI "alerts acknowledged in time" |
+| Future direction | Describes the hospital workflow we want to create |
+| Customer benefit | Hospitals respond faster and see where delays happen |
+| Realistic | Connects directly to our escalation engine and delay dashboard |
+| Motivating | A shared purpose: reducing delays in stroke care |
+| Communicated | On the slide and explained in the presentation |
+| Followed and measured | Alert response times, % acknowledged within the time limit, time between care stages |
 
 Avoided (lecture "common mistakes"): a vague vision such as "be the best stroke software in the world".
+Alternative we considered: "No stroke patient should lose brain to an unanswered alert" (shorter, patient-centred).
 
-## 2. Mission (#29)
+## 2. Mission (#29, Hiba, agreed by the team)
 
 **Slide version:**
-> **Escalate every alert, measure every minute, test before you change, prove the value.**
+> **Escalate every alert. Measure every minute. Test before you change. Prove the value.**
 
-**Full version (for the talk and the executive summary):**
-> We help hospitals respond faster to stroke alerts and see where patients lose time on the way to treatment. Our add-on to Viz.ai moves an unanswered alert to the next doctor in line, shows each step from arrival to treatment on one dashboard, lets managers test a change in a simulation before they make it, and turns the minutes saved into money.
+**Full version (slide / executive summary):**
+> We give stroke teams and hospital managers one platform that makes sure every urgent stroke alert reaches a doctor who answers, shows where minutes are lost between arrival and treatment, and lets hospitals test changes in a digital twin before making them, proving the value in minutes and money saved. We build on top of Viz.ai's detection, not in place of it.
+
+Hebrew version and the speaker line are in #29.
 
 The four verbs are our four components: escalation engine, door-to-treatment dashboard, hospital digital twin, ROI calculator. The mission is the "how"; the vision is the "what".
 
 > Keep the wording "add-on to Viz.ai" or "complements Viz.ai". We have **not** verified that Viz.ai lacks timed escalation (#11).
 
-## 3. Values (#30)
+## 3. Values (#30, Doaa: draft, not started yet)
 
 | Value | What it means in practice |
 | --- | --- |
@@ -118,8 +118,8 @@ For the slide, pick **5-7 KPIs** and keep at least 2 technical ones. Suggested: 
 
 | | |
 | --- | --- |
-| **Vision** | No stroke patient should lose brain to an unanswered alert |
-| **Mission** | Escalate every alert, measure every minute, test before you change, prove the value |
+| **Vision** | A hospital where every stroke alert is answered and every minute is accounted for |
+| **Mission** | Escalate every alert. Measure every minute. Test before you change. Prove the value. |
 | **Goal 1** | Faster response: median alert-to-acknowledge < 5 min in the pilot |
 | **Goal 2** | Visible delays: door-to-needle −10% at the pilot hospital |
 | **Goal 3** | Proven value: 3 paying hospitals by the end of year 3 |
