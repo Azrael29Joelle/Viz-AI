@@ -52,17 +52,17 @@ The four verbs are our four components: escalation engine, door-to-treatment das
 
 > Keep the wording "add-on to Viz.ai" or "complements Viz.ai". We have **not** verified that Viz.ai lacks timed escalation (#11).
 
-## 3. Values (#30, Doaa: draft, not started yet)
+## 3. Values (#30, Doaa)
+
+Doaa kept all five values and rewrote the descriptions (#30, 21 Nov 2026). The team can still review the wording before the final slide.
 
 | Value | What it means in practice |
 | --- | --- |
-| **Every minute counts** | We treat delay as harm. A feature that does not save time or show where it is lost does not go first |
-| **Evidence before claims** | Every medical or business number on a slide has a source. When we have none, we say so |
-| **Safety and privacy first** | The prototype uses fictional or public data only. Real patient data only under regulation and the hospital's approval |
-| **Support clinicians, don't replace them** | The doctor decides. We make sure the right doctor hears in time, and we work with Viz.ai, not against it |
-| **Fair care for every patient** | We check that response times are the same across age, sex, language and distance from the city |
-
-Format follows the Data.AI example from the lecture: a short name and one line of behaviour.
+| **Every Minute Counts** | We focus on reducing delays so stroke patients can receive care as quickly as possible |
+| **Evidence Before Claims** | We use reliable sources to support our medical and business claims, and are transparent when information is not available |
+| **Patient Safety and Privacy First** | We use synthetic or public data for the prototype, and only use real patient data with the required approval and consent |
+| **Support Clinicians, Don't Replace Them** | Our system helps urgent alerts reach the right doctor on time. It supports doctors and complements Viz.ai rather than replacing it |
+| **Fair Care for Every Patient** | We aim to provide fair care by monitoring alert and treatment times across different ages, sexes, languages, and locations |
 
 ## 4. Goals, SMART objectives and KPIs (#31)
 
